@@ -26,13 +26,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone https://github.com/taherhagui/Bengali.AI-Handwritten-Grapheme-Classification.git
+$ git clone git@github.com:Taher-web-dev/Analyze-nutritional-data.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Bengali.AI-Handwritten-Grapheme-Classification/
+$ cd Analyze-nutritional-data
 ```
 
 
