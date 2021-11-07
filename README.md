@@ -54,7 +54,7 @@ $ cd Analyze-nutritional-data
 
 👤 **Taher Haggui**
 
-- GitHub: [@TaherHaggui](https://github.com/taherhagui)
+- GitHub: [@TaherHaggui](https://github.com/Taher-web-dev)
 - LinkedIn: [@TaherHaggui](https://www.linkedin.com/in/taher-haggui-66b5a6198/)
 
 
